@@ -7,7 +7,7 @@ package reto1_luzaide;
 
 /**
  *
- * @author josed
+ * @author Luza
  */
 public class Reto1_LuzAide {
 
